@@ -9,7 +9,7 @@
   Pour compiler le programme il faut exécuter la commande "make" à la racine du projet
 
 ## Exécution :
-  Pour exécuter le programme il faut exécuter la commande "./TP6" à la racine du projet
+  Pour exécuter le programme il faut exécuter la commande "./Puissance4" à la racine du projet
 
 ## Documentation :
   Pour générer la documentation Doxygen il faut exécuter la commande "make doc" à la racine du projet
